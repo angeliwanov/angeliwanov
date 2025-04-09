@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @angeliwanov
-- 👀 I’m interested in AI.
-- 🌱 I’m currently learning Deep Learning.
-- 💞️ I’m looking to collaborate on AI projects.
+- 👀 I’m passionate about building scalable full-stack applications.
+- 🌱 I’m skilled in JavaScript, React, and Node.js.
+- 💞️ I’m looking to collaborate on scalable, cloud-driven projects.
 - 📫 How to reach me - angel.iwanov@gmail.com
 
 <!---
