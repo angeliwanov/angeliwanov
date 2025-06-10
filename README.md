@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @angeliwanov
-- 👀 I’m passionate about building scalable full-stack applications.
-- 🌱 I’m skilled in JavaScript, React, and Node.js.
-- 💞️ I’m looking to collaborate on scalable, cloud-driven projects.
-- 📫 How to reach me - angel.iwanov@gmail.com
+-👋 Hi, I’m @angeliwanov
+👀 I’m passionate about crafting full-stack applications and diving into AI-powered solutions.
+🌱 I’m skilled in frontend and backend development, with a keen interest in AI and scalable systems.
+💞️ I’m excited to collaborate on innovative, tech-driven projects across web and AI domains.
+📫 Reach me at angel.iwanov@gmail.com
 
 <!---
 angeliwanov/angeliwanov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
