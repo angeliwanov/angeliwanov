@@ -1,4 +1,4 @@
--👋 Hi, I’m @angeliwanov
+- 👋 Hi, I’m @angeliwanov
 - 👀 I’m passionate about crafting full-stack applications and diving into AI-powered solutions.
 - 🌱 I’m skilled in frontend and backend development, with a keen interest in AI and scalable systems.
 - 💞️ I’m excited to collaborate on innovative, tech-driven projects across web and AI domains.
