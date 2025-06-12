@@ -5,7 +5,7 @@
 - 📫 Reach me at angel.iwanov@gmail.com
 
 ## My Programming Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=angeliwanov&hide_border=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=angeliwanov&hide=html,css&hide_border=true&layout=compact)
 
 ## My GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=angeliwanov&show_icons=true&hide_border=true)

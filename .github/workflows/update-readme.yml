@@ -8,12 +8,16 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Update GitHub Stats
-        uses: anuraghazra/github-readme-stats@master
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
-          token: ${{ secrets.GH_TOKEN }}
-          username: angeliwanov
-          output: README.md
+          python-version: '3.x'
+      - name: Install dependencies
+        run: pip install requests
+      - name: Update README with Language Stats
+        run: python update_readme.py
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
       - name: Commit Changes
         run: |
           git config --global user.name 'github-actions[bot]'
