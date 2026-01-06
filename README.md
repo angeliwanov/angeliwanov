@@ -6,4 +6,4 @@
   
 | **GitHub Stats** | **Top Languages (Recent Focus)** |
 | :--- | :--- |
-| ![Lifetime Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=angeliwanov&theme=radical&show_icons=true&count_private=true&hide=stars,issues,contribs) | ![Recent Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=angeliwanov&theme=radical&layout=compact&hide=html,css,pug,jupyter%20notebook&size_weight=0.5&count_weight=0.5) |
+| ![Lifetime Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=angeliwanov&theme=radical&show_icons=true&count_private=true&hide=stars,issues,contribs) | ![Recent Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=angeliwanov&hide=html,css,pug,jupyter%20notebook,javascript&layout=compact&size_weight=0.5&count_weight=0.5&theme=radical) |
