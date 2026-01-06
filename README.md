@@ -4,6 +4,8 @@
 - 💞️ I’m excited to collaborate on innovative, tech-driven projects across web and AI domains.
 - 📫 Reach me at angel.iwanov@gmail.com
 
-| **Recent Activity & Impact** | **Top Languages (Weighted)** |
+| **2025 Full Year Stats** | **Most Recent Projects** |
 | :--- | :--- |
-| ![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=angeliwanov&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true&count_private=true&hide=stars,issues,contribs) | ![Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=angeliwanov&hide=html,css,pug,jupyter%20notebook&layout=compact&size_weight=0.5&count_weight=0.5&theme=radical) |
+| ![2025 Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=angeliwanov&theme=radical&commits_year=2025&show_icons=true&hide=stars,issues,contribs) | ![2026 Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=angeliwanov&theme=radical&commits_year=2026&show_icons=true&hide=stars,issues,contribs) |
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=angeliwanov&theme=radical&area=true&custom_title=Activity%20Since%202025)
