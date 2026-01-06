@@ -4,5 +4,6 @@
 - 💞️ I’m excited to collaborate on innovative, tech-driven projects across web and AI domains.
 - 📫 Reach me at angel.iwanov@gmail.com
 
-## My Programming Languages
-![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=angeliwanov&hide=html,css,pug,jupyter%20notebook&hide_border=true&layout=compact&size_weight=0.5&count_weight=0.5)
+| **Overall Stats & Recent Activity** | **Programming Languages (Weighted)** |
+| :--- | :--- |
+| ![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=angeliwanov&show_icons=true&theme=radical&include_all_commits=true&count_private=true) | ![Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=angeliwanov&hide=html,css,pug,jupyter%20notebook&layout=compact&size_weight=0.5&count_weight=0.5&theme=radical) |
