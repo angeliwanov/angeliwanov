@@ -6,4 +6,4 @@
   
 | **GitHub Stats** | **Recent Languages (Private Included)** |
 | :--- | :--- |
-| ![Stats](https://YOUR_VERCEL_URL/api?username=angeliwanov&theme=radical&show_icons=true&hide=stars,issues,contribs) | ![Langs](https://YOUR_VERCEL_URL/api/top-langs/?username=angeliwanov&hide=html,css,pug,jupyter%20notebook,javascript&layout=compact&size_weight=0.5&count_weight=0.5&theme=radical&langs_count=10) |
+| ![Stats](https://github-readme-stats-alpha-orcin-60.vercel.app/api?username=angeliwanov&theme=radical&show_icons=true&count_private=true&hide=stars,issues,contribs) | ![Langs](https://github-readme-stats-alpha-orcin-60.vercel.app/api/top-langs/?username=angeliwanov&hide=html,css,pug,jupyter%20notebook,javascript&layout=compact&size_weight=0.5&count_weight=0.5&theme=radical&langs_count=10) |
